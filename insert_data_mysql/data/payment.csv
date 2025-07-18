@@ -1,0 +1,6 @@
+paymentid,amount,payment_date,status,user_id
+1,"299000",2024-07-13,"SUCCESS",1
+2,"599000",2024-07-13,"SUCCESS",2
+3,"299000",2024-07-13,"PENDING",3
+4,"899000",2024-07-13,"FAILED",4
+5,"599000",2024-07-13,"SUCCESS",5 

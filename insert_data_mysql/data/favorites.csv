@@ -1,0 +1,6 @@
+favoritesid,content,favories_at,title,card_id,grammaid,kanji_id,user_id,vocalb_id
+1,"Kanji yêu thích",2024-07-13,"Kanji Collection",NULL,NULL,1,1,NULL
+2,"Từ vựng hay",2024-07-13,"Vocab List",NULL,NULL,NULL,1,1
+3,"Ngữ pháp quan trọng",2024-07-13,"Grammar Note",NULL,1,NULL,2,NULL
+4,"Flashcard N5",2024-07-13,"N5 Cards",1,NULL,NULL,2,NULL
+5,"Học phần quan trọng",2024-07-13,"Important Items",NULL,2,2,3,2 
