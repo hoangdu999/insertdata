@@ -1,6 +1,0 @@
-readingid,owner_id,owner_type,reading_text,reading_type
-1,1,vocabulary,こんにちは,hiragana
-2,2,vocabulary,コンピューター,katakana
-3,1,grammar,私は学生です,kanji
-4,2,grammar,日本語を勉強しています,kanji
-5,3,vocabulary,私の名前はTanです,mixed 
